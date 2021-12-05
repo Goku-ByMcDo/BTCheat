@@ -1,0 +1,16 @@
+C:\Users\Megaport\Desktop\FreeCsMenu\bin\Debug\netcoreapp3.1\FreeCsMenu.exe
+C:\Users\Megaport\Desktop\FreeCsMenu\bin\Debug\netcoreapp3.1\FreeCsMenu.deps.json
+C:\Users\Megaport\Desktop\FreeCsMenu\bin\Debug\netcoreapp3.1\FreeCsMenu.runtimeconfig.json
+C:\Users\Megaport\Desktop\FreeCsMenu\bin\Debug\netcoreapp3.1\FreeCsMenu.runtimeconfig.dev.json
+C:\Users\Megaport\Desktop\FreeCsMenu\bin\Debug\netcoreapp3.1\FreeCsMenu.dll
+C:\Users\Megaport\Desktop\FreeCsMenu\bin\Debug\netcoreapp3.1\FreeCsMenu.pdb
+C:\Users\Megaport\Desktop\FreeCsMenu\obj\Debug\netcoreapp3.1\FreeCsMenu.csproj.AssemblyReference.cache
+C:\Users\Megaport\Desktop\FreeCsMenu\obj\Debug\netcoreapp3.1\FreeCsMenu.Form1.resources
+C:\Users\Megaport\Desktop\FreeCsMenu\obj\Debug\netcoreapp3.1\FreeCsMenu.Properties.Resources.resources
+C:\Users\Megaport\Desktop\FreeCsMenu\obj\Debug\netcoreapp3.1\FreeCsMenu.csproj.GenerateResource.cache
+C:\Users\Megaport\Desktop\FreeCsMenu\obj\Debug\netcoreapp3.1\FreeCsMenu.AssemblyInfoInputs.cache
+C:\Users\Megaport\Desktop\FreeCsMenu\obj\Debug\netcoreapp3.1\FreeCsMenu.AssemblyInfo.cs
+C:\Users\Megaport\Desktop\FreeCsMenu\obj\Debug\netcoreapp3.1\FreeCsMenu.csproj.CoreCompileInputs.cache
+C:\Users\Megaport\Desktop\FreeCsMenu\obj\Debug\netcoreapp3.1\FreeCsMenu.dll
+C:\Users\Megaport\Desktop\FreeCsMenu\obj\Debug\netcoreapp3.1\FreeCsMenu.pdb
+C:\Users\Megaport\Desktop\FreeCsMenu\obj\Debug\netcoreapp3.1\FreeCsMenu.genruntimeconfig.cache
